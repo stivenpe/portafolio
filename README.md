@@ -26,6 +26,7 @@ Se usa la API [Quotable](https://api.quotable.io) para mostrar frases aleatorias
 - **GitHub:** [github.com/tuusuario]()
 - **LinkedIn:** [linkedin.com/in/tuusuario]()
 - **Email:** perezjeisson003@gmail.com
+- - **portafolio:** http://127.0.0.1:5500/mi.html
 
 ---
 
